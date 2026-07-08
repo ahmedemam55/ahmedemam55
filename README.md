@@ -49,12 +49,12 @@ Mobile App Developer specializing in **Flutter & Dart**, with hands-on experienc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedemam55&show_icons=true&theme=default&count_private=true" alt="Ahmed's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemam55&layout=compact&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedemam55&show_icons=true&theme=default&count_private=true&cache_seconds=86400" alt="Ahmed's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemam55&layout=compact&theme=default&cache_seconds=86400" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedemam55&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ahmedemam55&theme=default" alt="GitHub Streak"/>
 </p>
 
 ---
