@@ -18,7 +18,7 @@ Mobile App Developer specializing in **Flutter & Dart**, with hands-on experienc
 
 - 🔭 Flutter Developer Trainee **@ ELEVATE** — building production apps with Clean Architecture, Server-Driven UI & CI/CD
 - 🎓 Bachelor of Information Systems, King Mariout Academy (2024)
-- 🌱 Currently deepening **CI/CD, Unit Testing & SOLID principles**
+- 🚀 Experienced with the full delivery pipeline: **GitHub Actions, Codemagic, Fastlane & Shorebird**
 - 💬 Ask me about **Flutter, Bloc/Cubit, Clean Architecture, Firebase**
 - 📫 Reach me at **ahmedmohamedemam55@gmail.com**
 - 📍 Cairo, Egypt
@@ -31,18 +31,22 @@ Mobile App Developer specializing in **Flutter & Dart**, with hands-on experienc
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-**Architecture & Patterns:** Clean Architecture · MVVM · MVI · SOLID · Server-Driven UI
 **State Management:** Bloc · Cubit · Provider
-**Backend & Data:** REST APIs · Firebase (Auth, Firestore) · Hive · Retrofit · Dio
-**Practices:** Dependency Injection (GetIt, Injectable) · Unit Testing · CI/CD · Agile/Scrum
-**Tooling:** Git & GitHub · Codemagic · Fastlane · Postman · Jira · Figma · Slack
+**Architecture:** Clean Architecture · MVVM · MVI · SOLID
+**Networking:** REST APIs · Dio · Retrofit
+**Local Storage:** Hive · Secure Storage · SharedPreferences
+**Dependency Injection:** GetIt · Injectable
+**Firebase:** Auth · Firestore · Crashlytics · Remote Config · App Distribution
+**Maps & Location:** Google Maps · Geolocator · Geocoding
+**Testing & CI/CD:** Unit & Widget Testing · GitHub Actions · Codemagic · Fastlane · Shorebird
+**Localization:** easy_localization (Arabic/English, RTL)
 
 ---
 
@@ -52,13 +56,25 @@ Mobile App Developer specializing in **Flutter & Dart**, with hands-on experienc
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ahmedemam55&theme=default" alt="GitHub Streak"/>
 </p>
 
+<!--
+Optional: the cards below come from a public service that is sometimes down.
+Uncomment them once the service is reliable again.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedemam55&show_icons=true&theme=default&count_private=true&cache_seconds=86400" alt="Ahmed's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemam55&layout=compact&theme=default&cache_seconds=86400" alt="Top Languages" height="165"/>
+</p>
+-->
+
 ---
 
 ## 🚀 Projects
 
-- **🌸 [Flowers App](https://github.com/elevate-team-6/flowers-app)** *(Team)* — E-commerce app with authentication, product browsing, cart, and profile management. Built with Clean Architecture and BLoC/Cubit, REST APIs via Dio/Retrofit, unit testing, and a GitHub Actions CI pipeline.
+- **🌸 [Flowers App](https://github.com/elevate-team-6/flowers-app)** *(Team)* — E-commerce app with authentication, product browsing, cart, and profile management. Clean Architecture + BLoC/Cubit, REST APIs via Dio/Retrofit, unit testing, and a GitHub Actions CI pipeline.
 
-- **📝 [Exam App](https://github.com/abanoub6/online-exam-app)** *(Team)* — Examination app where students browse subjects, take timed exams, and review results. Clean Architecture + BLoC/Cubit, Dio/Retrofit networking, OTP password reset, timed sessions with auto-submit, and local storage with Hive.
+- **🛵 [Flowery Rider App](https://github.com/elevate-team-6/flowery-rider-app)** *(Team)* — Delivery-rider app to manage orders, track deliveries, update order status, and handle profiles, with full English/Arabic support. Clean Architecture (feature-based), BLoC/Cubit, GetIt/Injectable, Hive, Firebase (Firestore, Crashlytics, Remote Config), and location-based delivery tracking. CI/CD with GitHub Actions, Codemagic, Fastlane & Shorebird.
+
+- **📝 [Exam App](https://github.com/abanoub6/online-exam-app)** *(Team)* — Examination app where students browse subjects, take timed exams, and review results. Clean Architecture + BLoC/Cubit, Dio/Retrofit, OTP password reset, timed sessions with auto-submit, and local storage with Hive.
 
 - **✅ [Todo App](https://github.com/ahmedemam55/todo-app)** — Task management app with Firebase integration, real-time updates, local notifications, and full Dark/Light theme with Arabic/English localization.
 
