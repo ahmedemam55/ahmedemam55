@@ -8,15 +8,19 @@
   <a href="mailto:ahmedmohamedemam55@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://github.com/ahmedemam55">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Mobile App Developer specializing in **Flutter & Dart**, with hands-on experience building and deploying cross-platform applications. Skilled in **Clean Architecture**, **MVVM/MVI** patterns, and state management (**Bloc, Cubit, Provider**). Experienced in integrating **REST APIs**, implementing **Firebase** services, and applying **dependency injection** for scalable, maintainable code. Passionate about crafting responsive **UI/UX** and optimizing app performance through real-world project execution.
+Junior Flutter Developer building cross-platform apps through structured training and real team projects. Comfortable with Clean Architecture, state management (Bloc/Cubit/Provider), REST APIs, and Firebase — with recent experience building AI-powered features (tool-calling, on-device retrieval) into a production-style app.
 
 - 🔭 Flutter Developer Trainee **@ ELEVATE** — building production apps with Clean Architecture, Server-Driven UI & CI/CD
+- 🤖 Recently built an AI-powered fitness app with tool-calling & on-device retrieval (Super Fitness)
 - 🎓 Bachelor of Information Systems, King Mariout Academy (2024)
 - 🚀 Experienced with the full delivery pipeline: **GitHub Actions, Codemagic, Fastlane & Shorebird**
 - 💬 Ask me about **Flutter, Bloc/Cubit, Clean Architecture, Firebase**
@@ -40,6 +44,7 @@ Mobile App Developer specializing in **Flutter & Dart**, with hands-on experienc
 
 **State Management:** Bloc · Cubit · Provider
 **Architecture:** Clean Architecture · MVVM · MVI · SOLID
+**AI Integration:** Tool-Calling · RAG/Retrieval · SQLite-Grounded Chat
 **Networking:** REST APIs · Dio · Retrofit
 **Local Storage:** Hive · Secure Storage · SharedPreferences
 **Dependency Injection:** GetIt · Injectable
@@ -69,6 +74,8 @@ Uncomment them once the service is reliable again.
 ---
 
 ## 🚀 Projects
+
+- **🤖 [Super Fitness](https://github.com/elevate-team-6/super-fitness-app)** *(Team)* — AI-powered bilingual fitness app with a workout catalog, nutrition library, and an AI coach grounded in a local SQLite database using real search tools instead of hallucinated answers. Clean Architecture + Cubit, Firebase, social login, full CI/CD (GitHub Actions, Shorebird OTA). 45 test suites (Bloc Test, Mockito).
 
 - **🌸 [Flowers App](https://github.com/elevate-team-6/flowers-app)** *(Team)* — E-commerce app with authentication, product browsing, cart, and profile management. Clean Architecture + BLoC/Cubit, REST APIs via Dio/Retrofit, unit testing, and a GitHub Actions CI pipeline.
 
