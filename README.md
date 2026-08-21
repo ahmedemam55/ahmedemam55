@@ -85,11 +85,12 @@ Uncomment them once the service is reliable again.
 
 - **✅ [Todo App](https://github.com/ahmedemam55/todo-app)** — Task management app with Firebase integration, real-time updates, local notifications, and full Dark/Light theme with Arabic/English localization.
 
+- **🕌 [Islamic App](https://github.com/ahmedemam55/islami_app)** — Islamic app with the Holy Quran, Hadiths, digital Tasbih counter, and Quran Radio — full Dark/Light theme and Arabic/English localization.
+
 - **🎬 [Movies App](https://github.com/ahmedemam55/movies-app)** — Built with Clean Architecture and Cubit, featuring REST API integration and offline data caching for a seamless movie browsing experience.
 
 - **🌦️ [Weather App](https://github.com/ahmedemam55/Weather-App)** — Location-based app using a Weather API for dynamic weather data, Provider for state management, Firebase Authentication, and Geocoding for accurate location handling.
 
-- **🕌 [Islamic App](https://github.com/ahmedemam55/islami_app)** — Islamic app with the Holy Quran, Hadiths, digital Tasbih counter, and Quran Radio — full Dark/Light theme and Arabic/English localization.
 
 ---
 
